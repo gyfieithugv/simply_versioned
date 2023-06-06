@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add horizontal Mosaic3 augmentation (#6898)
